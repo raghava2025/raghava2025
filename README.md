@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raghava2025
 - 👀 I’m interested in Software Services
 - 🌱 I’m currently Experience of 10 years
-- 💞️ I’m looking to collaborate on ractjs, redux, node.js and php
+- 💞️ I’m looking to collaborate on react.js, redux, node.js and php (Frontend and backhend development)
 - 📫 How to reach me ... mail :- raghavrattan10@gmail.com mobile :- 7508534064
 
 <!---
